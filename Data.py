@@ -51,7 +51,7 @@ By @Bipin_Movies
 
 Channel : @Bipin_Movies 
 
-Source Code : [Click Here](https://github.com/bipin8987/PDFBot)
+Source Code : [Click Here](https://github.com/bipin8987/PDFBot.git)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
