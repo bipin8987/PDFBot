@@ -12,7 +12,7 @@ I can help you to do stuff on PDFs as well as convert images to PDF. Use /help t
 
 JUST SEND A PDF (or an image) to get started.
 
-By @StarkBots
+By @Bipin_Movies
     """
 
     # Home Button
@@ -22,12 +22,12 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("Bot Channel 📢", url="https://t.me/Bipin_Movies")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("☺️ About", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        
     ]
 
     # Help Message
@@ -49,13 +49,13 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot with PDF Tools by @StarkBots
+Channel : @Bipin_Movies 
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/PDFBot)
+Source Code : [Click Here](https://github.com/bipin8987/PDFBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @BipinX
     """
