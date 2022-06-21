@@ -12,7 +12,7 @@ I can help you to do stuff on PDFs as well as convert images to PDF. Use /help t
 
 JUST SEND A PDF (or an image) to get started.
 
-By @Bipin_Movies
+By @BipinX
     """
 
     # Home Button
